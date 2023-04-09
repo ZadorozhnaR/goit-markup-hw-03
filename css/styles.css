@@ -81,6 +81,7 @@ ul {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--iris);
+  margin-right: 76px;
 }
 
 .header-logo-second {
@@ -98,12 +99,25 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--navy-blue);
+  margin-right: 40px;
 }
 
+.header-link:last-child {
+  margin-left: 0;
+}
+
+.header-list {
+  margin-right: 332px;
+}
 .header-contacts-link {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--slate);
+  margin-right: 40px;
+}
+
+.header-contacts-link:last-child {
+  margin-right: 0;
 }
 
 .header-link:hover,
