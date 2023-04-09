@@ -94,7 +94,8 @@ body {
   letter-spacing: 0.02em;
   color: var(--white);
   width: 496px;
-  margin: 0 auto;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .hero-btn {
