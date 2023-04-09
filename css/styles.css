@@ -84,6 +84,7 @@ body {
 
 .hero {
   background-color: var(--navy-blue-bg);
+  margin: 0 auto;
 }
 
 .hero-title {
@@ -93,6 +94,7 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   color: var(--white);
+  width: 496px;
 }
 
 .hero-btn {
