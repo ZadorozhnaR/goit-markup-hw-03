@@ -75,6 +75,10 @@ img {
 
 /* Header styles */
 
+.header-container {
+  display: flex;
+}
+
 .main-nav {
   display: flex;
   align-items: center;
