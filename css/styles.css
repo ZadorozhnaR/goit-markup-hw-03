@@ -112,11 +112,14 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--slate);
-  margin-right: 40px;
 }
 
-.header-contacts-link :last-child {
-  margin-right: 0;
+.header-contacts-item {
+  margin: 40px;
+}
+
+.header-contacts-item:last-child {
+  margin: 0px;
 }
 
 .header-link:hover,
@@ -175,6 +178,14 @@ ul {
 .about-undertitle {
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+
+.about-item {
+  margin-right: 24px;
+}
+
+.about-item:last-child {
+  margin-right: 0px;
 }
 
 /* Section 2 styles */
@@ -256,6 +267,14 @@ ul {
 
 .portfolio-btn-list {
   margin-bottom: 72px;
+}
+
+.porfolio-btn-item {
+  margin-right: 24px;
+}
+
+.porfolio-btn-item:last-child {
+  margin-right: 0px;
 }
 
 .portfolio-btn {
