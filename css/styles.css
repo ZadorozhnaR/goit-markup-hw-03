@@ -77,7 +77,6 @@ img {
 
 .header-container {
   display: flex;
-  align-items: center;
 }
 
 .header-logo {
@@ -99,6 +98,7 @@ img {
 
 .header-nav-list {
   display: flex;
+  align-items: center;
   margin-right: 332px;
 }
 
