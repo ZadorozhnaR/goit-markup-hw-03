@@ -83,7 +83,7 @@ img {
 .main-nav {
   display: flex;
   align-items: center;
-  margin-right: 332px;
+  margin-left: auto;
 }
 
 .header-logo {
