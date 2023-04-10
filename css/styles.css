@@ -79,6 +79,7 @@ ul {
   text-transform: uppercase;
   color: var(--iris);
   margin-right: 76px;
+  width: 115px;
 }
 
 .header-logo-second {
@@ -107,7 +108,13 @@ ul {
 
 .header-list {
   margin-right: 332px;
+  width: 261px;
 }
+
+.header-contacts {
+  width: 344px;
+}
+
 .header-contacts-link {
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -115,11 +122,11 @@ ul {
 }
 
 .header-contacts-item {
-  margin: 40px;
+  margin-right: 40px;
 }
 
 .header-contacts-item:last-child {
-  margin: 0px;
+  margin-right: 0px;
 }
 
 .header-link:hover,
@@ -157,6 +164,7 @@ ul {
   cursor: pointer;
   padding: 16px 32px;
   border-radius: 4px;
+  width: 169px;
 }
 
 .hero-btn:hover,
@@ -182,6 +190,7 @@ ul {
 
 .about-item {
   margin-right: 24px;
+  width: 264px;
 }
 
 .about-item:last-child {
@@ -198,6 +207,7 @@ ul {
   text-transform: capitalize;
   color: var(--navy-blue);
   margin-bottom: 72px;
+  width: 323px;
 }
 
 /* Section 3 styles */
@@ -214,6 +224,7 @@ ul {
   letter-spacing: 0.02em;
   color: var(--navy-blue);
   margin-bottom: 72px;
+  width: 162px;
 }
 
 .team-item {
@@ -267,6 +278,7 @@ ul {
 
 .portfolio-btn-list {
   margin-bottom: 72px;
+  width: 586px;
 }
 
 .porfolio-btn-item {
