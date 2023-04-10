@@ -80,12 +80,6 @@ img {
   align-items: center;
 }
 
-.header-nav {
-  margin-right: auto;
-  display: flex;
-  align-items: center;
-}
-
 .header-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
@@ -101,6 +95,12 @@ img {
 .header-logo-second {
   font-family: "Raleway", sans-serif;
   color: var(--navy-blue);
+}
+
+.header-nav-list {
+  display: flex;
+  align-items: center;
+  margin-right: auto;
 }
 
 .header-link {
@@ -119,9 +119,12 @@ img {
 }
 
 .header-contacts {
-  display: flex;
   font-style: normal;
   width: 344px;
+}
+
+.header-contacts-list {
+  display: flex;
 }
 
 .header-contacts-link {
