@@ -75,7 +75,7 @@ img {
 
 /* Header styles */
 
-.header-container {
+.main-nav {
   display: flex;
   align-items: center;
 }
