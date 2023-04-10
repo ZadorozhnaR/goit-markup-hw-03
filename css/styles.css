@@ -181,7 +181,7 @@ img {
   padding-bottom: 16px;
   padding-left: 32px;
   border-radius: 4px;
-  width: 105px;
+  min-width: 169px;
   font-family: inherit;
   font-weight: 500;
   font-size: 16px;
@@ -324,6 +324,7 @@ img {
   padding-right: 24px;
   padding-bottom: 12px;
   padding-left: 24px;
+  min-width: 69px;
   font-family: inherit;
   font-weight: 500;
   font-size: 16px;
