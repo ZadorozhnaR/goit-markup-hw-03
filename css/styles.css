@@ -97,12 +97,6 @@ img {
   color: var(--navy-blue);
 }
 
-.header-nav-list {
-  display: flex;
-  align-items: center;
-  margin-right: auto;
-}
-
 .header-link {
   font-weight: 500;
   font-size: 16px;
@@ -121,10 +115,6 @@ img {
 .header-contacts {
   font-style: normal;
   width: 344px;
-}
-
-.header-contacts-list {
-  display: flex;
 }
 
 .header-contacts-link {
@@ -148,7 +138,7 @@ img {
   color: var(--ocean);
 }
 
-/* Hero styles! */
+/* Hero styles */
 
 .hero {
   background-color: var(--navy-blue-bg);
