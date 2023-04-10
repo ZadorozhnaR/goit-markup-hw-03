@@ -343,6 +343,7 @@ img {
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
+  width: 1128px;
 }
 
 .portfoli-img-item {
