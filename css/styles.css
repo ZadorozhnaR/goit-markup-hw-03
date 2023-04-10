@@ -116,7 +116,7 @@ ul {
   margin-right: 40px;
 }
 
-.header-contacts-link:last-child {
+.header-contacts-link: last-child {
   margin-right: 0;
 }
 
