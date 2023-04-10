@@ -341,5 +341,5 @@ ul {
 }
 
 .portfoli-img-item {
-  flex-basis: calc((100%-24px82) / 3);
+  flex-basis: calc((100%-24px * 2) / 3);
 }
