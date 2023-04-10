@@ -70,9 +70,6 @@ ul {
 
 /* Header styles */
 
-.header {
-}
-
 .header-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
@@ -99,11 +96,13 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--navy-blue);
+}
+.header-item {
   margin-right: 40px;
 }
 
-.header-link: last-child {
-  margin-right: 0;
+.header-item:last-child {
+  margin-right: 0px;
 }
 
 .header-list {
@@ -116,7 +115,7 @@ ul {
   margin-right: 40px;
 }
 
-.header-contacts-link: last-child {
+.header-contacts-link :last-child {
   margin-right: 0;
 }
 
@@ -164,9 +163,6 @@ ul {
 
 /* Section 1 styles */
 
-.about-section {
-}
-
 .about-title-name {
   font-weight: 500;
   font-size: 20px;
@@ -183,8 +179,6 @@ ul {
 
 /* Section 2 styles */
 
-.projects-section {
-}
 .projects-title {
   font-weight: 700;
   font-size: 36px;
