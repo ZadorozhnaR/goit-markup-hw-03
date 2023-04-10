@@ -68,6 +68,14 @@ ul {
   overflow: hidden;
 }
 
+.container {
+  width: 1158px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
 /* Header styles */
 
 .header-logo {
