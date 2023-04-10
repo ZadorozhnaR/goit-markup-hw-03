@@ -201,6 +201,10 @@ img {
 
 /* Section 1 styles */
 
+.about-list {
+  display: flex;
+}
+
 .about-title-name {
   font-weight: 500;
   font-size: 20px;
