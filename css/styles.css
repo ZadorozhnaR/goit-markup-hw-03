@@ -75,6 +75,10 @@ img {
 
 /* Header styles */
 
+.header-container {
+  display: flex;
+}
+
 .header-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
@@ -341,8 +345,6 @@ img {
 .portfolio-img-list {
   display: flex;
   flex-wrap: wrap;
-  column-gap: 24px;
-  row-gap: 48px;
   width: 1128px;
 }
 
