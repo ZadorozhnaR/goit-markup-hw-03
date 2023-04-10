@@ -279,6 +279,7 @@ ul {
 .portfolio-btn-list {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   margin-bottom: 72px;
   width: 586px;
 }
@@ -300,6 +301,7 @@ ul {
   color: var(--iris);
   background-color: var(--cloud);
   cursor: pointer;
+  border-radius: 4px;
 }
 
 .portfolio-btn:hover,
