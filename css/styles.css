@@ -277,6 +277,8 @@ ul {
 /* Section 1 */
 
 .portfolio-btn-list {
+  display: flex;
+  justify-content: space-between;
   margin-bottom: 72px;
   width: 586px;
 }
