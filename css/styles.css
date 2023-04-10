@@ -80,6 +80,10 @@ img {
   align-items: center;
 }
 
+.header-nav {
+  margin-right: auto;
+}
+
 .header-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
@@ -97,8 +101,9 @@ img {
   color: var(--navy-blue);
 }
 
-.header-contacts {
-  font-style: normal;
+.header-list {
+  display: flex;
+  width: 261px;
 }
 
 .header-link {
@@ -116,12 +121,8 @@ img {
   margin-right: 0px;
 }
 
-.header-list {
-  margin-right: 332px;
-  width: 261px;
-}
-
 .header-contacts {
+  font-style: normal;
   width: 344px;
 }
 
