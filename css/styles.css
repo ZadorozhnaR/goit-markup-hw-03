@@ -83,7 +83,6 @@ img {
 .main-nav {
   display: flex;
   align-items: center;
-  margin-left: auto;
 }
 
 .header-logo {
@@ -133,6 +132,7 @@ img {
 
 .header-nav-contacts-list {
   display: flex;
+  margin-left: auto;
 }
 
 .header-contacts-link {
