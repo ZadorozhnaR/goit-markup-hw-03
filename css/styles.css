@@ -102,7 +102,7 @@ ul {
   margin-right: 40px;
 }
 
-.header-link:last-child {
+.header-link: last-child {
   margin-right: 0;
 }
 
