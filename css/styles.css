@@ -339,3 +339,7 @@ ul {
   column-gap: 24px;
   row-gap: 48px;
 }
+
+.portfoli-img-item {
+  flex-basis: calc((100%-24px82) / 3);
+}
