@@ -104,13 +104,14 @@ img {
 
 .header-link {
   display: block;
+  padding-top: 24px;
+  padding-bottom: 24px;
+
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--navy-blue);
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 .header-item {
   margin-right: 40px;
@@ -124,7 +125,7 @@ img {
   font-style: normal;
 }
 
-.header-contacts-list {
+.header-nav-contacts-list {
   display: flex;
 }
 
