@@ -83,6 +83,7 @@ img {
 .main-nav {
   display: flex;
   align-items: center;
+  margin-right: 332px;
 }
 
 .header-logo {
@@ -132,7 +133,6 @@ img {
 
 .header-nav-contacts-list {
   display: flex;
-  margin-left: auto;
 }
 
 .header-contacts-link {
@@ -159,6 +159,7 @@ img {
 /* Hero styles */
 
 .hero {
+  align-items: center;
   background-color: var(--navy-blue-bg);
 }
 
@@ -187,7 +188,7 @@ img {
   padding-bottom: 16px;
   padding-left: 32px;
   border-radius: 4px;
-  width: 169px;
+  width: 105px;
 }
 
 .hero-btn:hover,
