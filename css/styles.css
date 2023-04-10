@@ -101,7 +101,7 @@ img {
   color: var(--navy-blue);
 }
 
-.header-list {
+.header-nav-list {
   display: flex;
   align-items: center;
 }
