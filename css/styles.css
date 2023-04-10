@@ -75,6 +75,10 @@ img {
 
 /* Header styles */
 
+.header {
+  margin-bottom: 14px;
+}
+
 .header-cont {
   display: flex;
   align-items: center;
@@ -165,9 +169,9 @@ img {
 
 .hero-title {
   margin-bottom: 48px;
-  margin-top: 188px;
   width: 496px;
   font-weight: 700;
+  text-align: center;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
