@@ -165,13 +165,14 @@ img {
 .hero {
   text-align: center;
   background-color: var(--navy-blue-bg);
+  margin-bottom: 120px;
 }
 
 .hero-title {
-  margin-bottom: 48px;
+  padding-top: 188px;
+  padding-bottom: 48px;
   width: 496px;
   font-weight: 700;
-  text-align: center;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
@@ -205,6 +206,10 @@ img {
 
 /* Section 1 styles */
 
+.about-section {
+  margin-bottom: 120px;
+}
+
 .about-list {
   display: flex;
 }
@@ -234,6 +239,15 @@ img {
 
 /* Section 2 styles */
 
+.projects-section {
+  margin-bottom: 153px;
+}
+
+.projects-list {
+  display: flex;
+  gap: 24px;
+}
+
 .projects-title {
   font-weight: 700;
   font-size: 36px;
@@ -259,7 +273,11 @@ img {
   letter-spacing: 0.02em;
   color: var(--navy-blue);
   margin-bottom: 72px;
-  width: 162px;
+}
+
+.team-list {
+  display: flex;
+  gap: 24px;
 }
 
 .team-item {
@@ -287,6 +305,10 @@ img {
   background-color: var(--navy-blue-bg);
 }
 
+.footer-logo link {
+  margin-top: 100px;
+}
+
 .footer-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
@@ -295,7 +317,6 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--iris);
-  margin-bottom: 16px;
 }
 
 .footer-logo-second {
@@ -305,6 +326,7 @@ img {
 
 .footer-undertitle {
   color: var(--cloud);
+  width: 264px;
 }
 
 /* Portfolio */
@@ -317,14 +339,7 @@ img {
   align-items: center;
   margin-bottom: 72px;
   width: 586px;
-}
-
-.porfolio-btn-item {
-  margin-right: 24px;
-}
-
-.porfolio-btn-item:last-child {
-  margin-right: 0px;
+  gap: 24px;
 }
 
 .portfolio-btn {
@@ -335,7 +350,7 @@ img {
   padding-right: 24px;
   padding-bottom: 12px;
   padding-left: 24px;
-  min-width: 69px;
+  min-width: auto;
   text-align: center;
   font-family: inherit;
   font-weight: 500;
@@ -360,6 +375,7 @@ img {
   letter-spacing: 0.02em;
   color: var(--navy-blue);
   margin-bottom: 8px;
+  margin-top: 32px;
 }
 
 .portfolio-undertitle {
@@ -367,12 +383,16 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--slate);
+  margin-bottom: 32px;
 }
 
 .portfolio-img-list {
   display: flex;
   flex-wrap: wrap;
   width: 1128px;
+  column-gap: 24px;
+  row-gap: 48px;
+  margin-bottom: 120px;
 }
 
 .portfoli-img-item {
