@@ -103,7 +103,7 @@ img {
 
 .header-list {
   display: flex;
-  width: 261px;
+  align-items: center;
 }
 
 .header-link {
