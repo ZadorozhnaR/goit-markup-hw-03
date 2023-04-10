@@ -175,6 +175,13 @@ img {
 }
 
 .hero-btn {
+  display: inline-block;
+  padding-bottom: 16px;
+  padding-right: 32px;
+  padding-bottom: 16px;
+  padding-left: 32px;
+  border-radius: 4px;
+  width: 105px;
   font-family: inherit;
   font-weight: 500;
   font-size: 16px;
@@ -183,12 +190,6 @@ img {
   color: var(--white);
   background-color: var(--iris);
   cursor: pointer;
-  padding-bottom: 16px;
-  padding-right: 32px;
-  padding-bottom: 16px;
-  padding-left: 32px;
-  border-radius: 4px;
-  width: 105px;
 }
 
 .hero-btn:hover,
@@ -317,6 +318,12 @@ img {
 }
 
 .portfolio-btn {
+  display: inline-block;
+  border-radius: 4px;
+  padding-top: 12px;
+  padding-right: 24px;
+  padding-bottom: 12px;
+  padding-left: 24px;
   font-family: inherit;
   font-weight: 500;
   font-size: 16px;
@@ -325,11 +332,6 @@ img {
   color: var(--iris);
   background-color: var(--cloud);
   cursor: pointer;
-  border-radius: 4px;
-  padding-top: 12px;
-  padding-right: 24px;
-  padding-bottom: 12px;
-  padding-left: 24px;
 }
 
 .portfolio-btn:hover,
