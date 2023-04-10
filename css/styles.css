@@ -77,6 +77,7 @@ img {
 
 .header-container {
   display: flex;
+  align-items: center;
 }
 
 .header-logo {
@@ -349,5 +350,7 @@ img {
 }
 
 .portfoli-img-item {
+  column-gap: 24px;
+  row-gap: 48px;
   flex-basis: calc((100% - 24px * 2) / 3);
 }
