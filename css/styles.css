@@ -99,6 +99,7 @@ img {
 
 .header-nav-list {
   display: flex;
+  margin-right: auto;
 }
 
 .header-link {
