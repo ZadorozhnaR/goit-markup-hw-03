@@ -432,4 +432,5 @@ img {
   column-gap: 24px;
   row-gap: 48px;
   flex-basis: calc((100% - 24px * 2) / 3);
+  border: 1px solid #e7e9fc;
 }
