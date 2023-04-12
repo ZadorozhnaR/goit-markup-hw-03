@@ -367,7 +367,6 @@ img {
 .portfolio-btn-list {
   display: flex;
   justify-content: space-between;
-  align-items: center;
   margin-bottom: 72px;
   margin-right: auto;
   margin-left: auto;
