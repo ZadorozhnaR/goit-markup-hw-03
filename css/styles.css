@@ -359,11 +359,18 @@ img {
 
 /* Section 1 */
 
+.portfolio-cont {
+  padding-top: 96px;
+  padding-bottom: 120px;
+}
+
 .portfolio-btn-list {
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin-bottom: 72px;
+  margin-right: auto;
+  margin-left: auto;
   width: 586px;
   gap: 24px;
 }
@@ -376,7 +383,6 @@ img {
   padding-right: 24px;
   padding-bottom: 12px;
   padding-left: 24px;
-  min-width: auto;
   text-align: center;
   font-family: inherit;
   font-weight: 500;
