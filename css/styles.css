@@ -76,7 +76,6 @@ img {
 
 .header {
   border-bottom: 1px solid #e7e9fc;
-  padding: 24px 0;
 }
 
 .header-cont {
@@ -88,6 +87,7 @@ img {
   display: flex;
   align-items: center;
   margin-right: auto;
+  padding: 24px 0;
 }
 
 .header-logo {
@@ -132,6 +132,7 @@ img {
 
 .header-contacts {
   font-style: normal;
+  padding: 24px 0;
 }
 
 .header-nav-contacts-list {
