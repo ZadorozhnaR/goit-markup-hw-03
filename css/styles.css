@@ -383,6 +383,7 @@ img {
   padding-right: 24px;
   padding-bottom: 12px;
   padding-left: 24px;
+  min-width: 69px;
   text-align: center;
   font-family: inherit;
   font-weight: 500;
