@@ -69,19 +69,17 @@ img {
   width: 1158px;
   margin-right: auto;
   margin-left: auto;
-  padding-right: 15px;
-  padding-left: 15px;
+  padding: 0 15px;
 }
 
 /* Header styles */
 
 .header {
   border-bottom: 1px solid #e7e9fc;
+  padding: 24px 0;
 }
 
 .header-cont {
-  padding-top: 24px;
-  padding-bottom: 24px;
   display: flex;
   align-items: center;
 }
