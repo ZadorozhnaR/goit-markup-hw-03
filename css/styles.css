@@ -355,7 +355,7 @@ img {
 .footer-undertitle {
   color: var(--cloud);
   width: 264px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 
