@@ -87,7 +87,6 @@ img {
   display: flex;
   align-items: center;
   margin-right: auto;
-  padding: 24px 0;
 }
 
 .header-logo {
@@ -170,7 +169,7 @@ img {
 }
 
 .hero-title {
-  padding-bottom: 48px;
+  margin-bottom: 48px;
   max-width: 496px;
   margin-right: auto;
   margin-left: auto;
@@ -249,7 +248,6 @@ img {
 /* Section 2 styles */
 
 .projects-section {
-  padding-top: 120px;
   padding-bottom: 120px;
 }
 
@@ -260,9 +258,6 @@ img {
 
 .projects-title {
   margin-bottom: 72px;
-  margin-right: auto;
-  margin-left: auto;
-  width: 323px;
 
   font-weight: 700;
   font-size: 36px;
@@ -360,6 +355,8 @@ img {
 .footer-undertitle {
   color: var(--cloud);
   width: 264px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
 }
 
 /* Portfolio */
@@ -375,21 +372,15 @@ img {
   display: flex;
   justify-content: center;
   margin-bottom: 72px;
-  margin-right: auto;
-  margin-left: auto;
-  width: 586px;
   gap: 24px;
 }
 
 .portfolio-btn {
-  display: inline-block;
   border-radius: 4px;
-  border: transparent;
   padding-top: 12px;
   padding-right: 24px;
   padding-bottom: 12px;
   padding-left: 24px;
-  min-width: 69px;
   text-align: center;
   border: 1px solid var(--cornflower);
 
